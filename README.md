@@ -45,9 +45,9 @@ It predicts the price of the stock M days into the future, where M is an integer
 ### Structure
 The neural network architecture consists of the following layers:
 
-- LSTM Layer of 64 nodes
+- LSTM layer of 64 nodes
 - Dropout (20%)
-- LSTM Layer of 128 nodes
+- LSTM layer of 128 nodes
 - Dropout (20%)
 - Dense layer of 32 nodes
 - Dense layer of 16 nodes
